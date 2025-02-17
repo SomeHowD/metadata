@@ -1,5 +1,5 @@
 {
-  name: "MAX ASU";
-  symbol: "MAX";
-  image: "https://raw.githubusercontent.com/SomeHowD/metadata/refs/heads/main/super.png"
+  "name": "MAX ASU",
+  "symbol": "MAX",
+  "uri": "https://raw.githubusercontent.com/SomeHowD/metadata/refs/heads/main/super.png",
 }
